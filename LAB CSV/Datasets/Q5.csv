@@ -1,0 +1,11 @@
+LocationID,PickupPoint,Reward
+L1,No,0
+L2,Yes,5
+L3,No,-1
+L4,No,-1
+L5,Yes,5
+L6,No,-1
+L7,No,-1
+L8,Yes,5
+L9,No,-1
+L10,Goal,10

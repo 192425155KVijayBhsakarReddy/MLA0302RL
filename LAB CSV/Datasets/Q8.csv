@@ -1,0 +1,7 @@
+From,To,Distance,Signal
+A,B,5,Green
+A,C,7,Green
+B,D,4,Red
+C,D,3,Green
+D,E,6,Green
+E,Goal,2,Green
