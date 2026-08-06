@@ -1,0 +1,6 @@
+MachineSetting,Temperature,Pressure,ProductQuality,Reward
+M1,150,20,80,5
+M2,160,22,88,8
+M3,170,24,84,6
+M4,180,26,95,10
+M5,190,28,86,7

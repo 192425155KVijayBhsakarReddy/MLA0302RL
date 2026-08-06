@@ -1,0 +1,7 @@
+State,Reward
+S1,0
+S2,2
+S3,-1
+S4,4
+S5,3
+Goal,10

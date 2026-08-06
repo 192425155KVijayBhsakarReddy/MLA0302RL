@@ -1,0 +1,7 @@
+State,Reward
+Start,0
+Food1,10
+Ghost,-10
+Food2,8
+Wall,-2
+Goal,20

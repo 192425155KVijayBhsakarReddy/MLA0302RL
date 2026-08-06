@@ -1,0 +1,6 @@
+ContentID,ContentName,Category,ClickProbability,Reward
+L1,Python Basics,Programming,0.25,2
+L2,AI Fundamentals,AI,0.4,5
+L3,Machine Learning,AI,0.18,1
+L4,Deep Learning,AI,0.55,7
+L5,Reinforcement Learning,AI,0.32,4

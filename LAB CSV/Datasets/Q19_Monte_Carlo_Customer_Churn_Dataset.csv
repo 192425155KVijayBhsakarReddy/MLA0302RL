@@ -1,0 +1,7 @@
+CustomerID,SubscriptionMonths,MonthlyUsageHours,ChurnStatus,Reward
+C101,12,45,No,8
+C102,8,20,Yes,4
+C103,15,60,No,10
+C104,5,15,Yes,3
+C105,20,70,No,9
+C106,10,30,Yes,5

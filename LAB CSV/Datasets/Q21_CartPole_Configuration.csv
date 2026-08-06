@@ -1,0 +1,7 @@
+Parameter,Value
+Environment,CartPole-v1
+StateSize,4
+ActionSize,2
+MaxEpisodes,100
+LearningRate,0.001
+DiscountFactor,0.99

@@ -1,0 +1,10 @@
+Cell,Type,Reward
+A1,Start,0
+A2,Dirt,1
+A3,Obstacle,-1
+B1,Dirt,1
+B2,Empty,0
+B3,Dirt,1
+C1,Obstacle,-1
+C2,Empty,0
+Goal,Goal,5
