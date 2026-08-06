@@ -1,6 +1,0 @@
-Parameter,Value
-GoalPosition,0.5
-MaxSteps,200.0
-DefaultEpisodes,20.0
-LearningRate,0.1
-Gamma,0.95
