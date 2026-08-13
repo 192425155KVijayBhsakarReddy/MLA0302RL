@@ -1,0 +1,5 @@
+PointID,X_Coord,Y_Coord,ObstacleNear
+P1,10,15,No
+P2,25,40,Yes
+P3,50,60,No
+P4,80,90,No

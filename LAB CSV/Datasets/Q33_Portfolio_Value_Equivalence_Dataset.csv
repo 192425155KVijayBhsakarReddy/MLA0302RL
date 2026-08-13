@@ -1,0 +1,4 @@
+PortfolioName,AssetMix,HistoricalReturn,RiskVol
+Aggressive_Growth,80_Equity_20_Bond,0.12,0.18
+Conservative_Income,30_Equity_70_Bond,0.06,0.05
+Balanced_Index,50_Equity_50_Bond,0.09,0.10

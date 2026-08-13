@@ -1,0 +1,4 @@
+ProductID,DailyDemandMean,LeadTimeDays,UnitCost
+Item_A,45,3,12
+Item_B,80,5,25
+Item_C,20,2,50

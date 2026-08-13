@@ -1,0 +1,4 @@
+Tier,BasePrice,PriceElasticity,MarketDemand
+Economy,50,-1.5,500
+Standard,100,-1.2,300
+Premium,200,-0.8,120
